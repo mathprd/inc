@@ -9,5 +9,10 @@
 #define ECRAN_LANCER_PROG_H_
 
 void Creer_Ecran_Lancer_Prog(void);
+void Bouton_Retour_Lancer_Prog(void);
+void Creer_Bouton_Selection(void);
+void Bouton_Appliquer_Prog(void);
+void Afficher_Texte(void);
+
 
 #endif /* ECRAN_LANCER_PROG_H_ */
