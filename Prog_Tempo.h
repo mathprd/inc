@@ -32,5 +32,6 @@
 	char  Is_Stop(Data_Prog_Typedef  * ,DS1307_Time_Typedef);
 	void CheckStop(Data_Prog_Typedef  *);
 	void Verif_Programme(void);
+	void Gestion_Priorites();
 
 #endif /* PROG_TEMPO_H_ */
