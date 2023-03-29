@@ -29,9 +29,8 @@
 	void Lire_Data_Prog( Data_Prog_Typedef *);
 	void Stocke_Data_Prog(Data_Prog_Typedef *);
 	char  Is_Start(Data_Prog_Typedef  * ,DS1307_Time_Typedef);
-	char  Is_Stop(Data_Prog_Typedef  * ,DS1307_Time_Typedef);
 	void CheckStop(Data_Prog_Typedef  *);
 	void Verif_Programme(void);
-	void Gestion_Priorites();
+	void Gestion_Priorites(void);
 
 #endif /* PROG_TEMPO_H_ */
