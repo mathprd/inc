@@ -18,6 +18,7 @@ void Bouton_Marche(void);
 void Creer_Label_ProgActif(void);
 void Bouton_Reglage_Prog(void);
 void Bouton_Mode_Prog(void) ;
+void Bouton_Mode_Capteur(void) ;
 
 
 

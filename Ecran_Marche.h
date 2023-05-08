@@ -15,6 +15,8 @@ void Bouton_Activer_Pompe(void) ;
 void Bouton_Stopper_Pompe(void) ;
 void Bouton_Retour_Marche(void);
 void Ecran_Marche(void);
+void Bouton1();
+void Bouton2();
 
 
 #endif /* ECRAN_MARCHE_H_ */
